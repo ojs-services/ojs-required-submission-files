@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: requiredFiles\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-02-23T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-02-23T00:00:00+00:00\n"
+"Language: tr_TR\n"
+
+msgid "plugins.generic.requiredFiles.displayName"
+msgstr "Zorunlu Gönderi Dosyaları"
+
+msgid "plugins.generic.requiredFiles.description"
+msgstr "Editörlerin gönderi sırasında belirli makale bileşen türlerini zorunlu olarak işaretlemesine olanak tanır. Yazarlar, yükleme adımını geçmeden önce her zorunlu türde en az bir dosya yüklemelidir."
+
+msgid "plugins.generic.requiredFiles.settings.description"
+msgstr "Yazarların gönderi sırasında yüklemesi gereken dosya türlerini seçin"
+
+msgid "plugins.generic.requiredFiles.settings.note"
+msgstr "Bu liste derginizdeki makale bileşen türlerini yansıtır. Yeni tür eklemek veya mevcut türleri düzenlemek için İş Akışı > Gönderi > Bileşenler bölümünü kullanın."
+
+msgid "plugins.generic.requiredFiles.validation.missingFiles"
+msgstr "Şu zorunlu dosyalar eksik: {$fileTypes}. Devam etmeden önce lütfen her zorunlu türde en az bir dosya yükleyin."
+
+msgid "plugins.generic.requiredFiles.validation.errorTitle"
+msgstr "Eksik Zorunlu Dosyalar"
+
+msgid "plugins.generic.requiredFiles.validation.uploadError"
+msgstr "Yükleme başarısız oldu. Lütfen tekrar deneyin."
+
+msgid "plugins.generic.requiredFiles.banner.title"
+msgstr "Zorunlu Dosyalar:"
+
+msgid "plugins.generic.requiredFiles.section.required"
+msgstr "Zorunlu Dosyalar"
+
+msgid "plugins.generic.requiredFiles.section.optional"
+msgstr "Yüklenen Dosyalar"
+
+msgid "plugins.generic.requiredFiles.status.notUploaded"
+msgstr "Yüklenmedi"
+
+msgid "plugins.generic.requiredFiles.status.uploaded"
+msgstr "Yüklendi"
+
+msgid "plugins.generic.requiredFiles.action.chooseFile"
+msgstr "Dosya Seç"
+
+msgid "plugins.generic.requiredFiles.action.replace"
+msgstr "Değiştir"
